@@ -1,0 +1,8 @@
+-What is the purpose of the doctype declaration?
+The !DOCTYPE declaration allows the webpage to know what version of HTML you are using.
+-What is the HTML element?
+The HTML element contains all other data for the document. 
+-What is the purpose of the head element?
+The head element contains information about the webpage. e.g. what type of encoding will be used in the document.
+-What is the purpose of the body element?
+The body element contains the actual content the end user will experience.

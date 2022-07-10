@@ -1,0 +1,23 @@
+-What element is used to create a link?
+<a></a>
+-What is an attribute?
+attribute is an element of an html tag that only goes in the opening. This allows us to
+include additional information for the tag. 
+-What attribute tells links where to go to?
+href=""
+-What is the difference between an absolute and relative link?
+and absolute link requires the format of "domain/path"
+a relative link is based on the directory structure that the current html document
+resides within.
+-Which element is used to display an image?
+<img> </img>
+-What two attributes do images always need to have?
+<img src="path" alt="text"> </img>
+-How do you access a parent directory in a filepath?
+use the ../ in the filepath
+-What are the four main image formats that you can use for images on the web?
+these are: 
+jpg (low quality, high color), 
+gif (motion and low quality, binary opacity)
+png (high quality, high color, opacity)
+svg (opacity and scalable graphics)

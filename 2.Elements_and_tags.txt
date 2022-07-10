@@ -1,0 +1,4 @@
+-What is an HTML tag?
+An HTML tag tells the web browser what sort of element should be presented on the page.
+-What are the three parts of an HTML element?
+The opening tag, the content and the closing tag.
