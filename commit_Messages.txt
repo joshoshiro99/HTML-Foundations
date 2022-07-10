@@ -1,0 +1,5 @@
+-What are two benefits of having well-written commit messages and a good commit history?
+ 1. Well written commit messages increase the maintainability of a project by including context about the change
+ 2. You can review what changes have been made and devide to revert back to before something breaks
+-How many characters should the subject line of your commit message be?
+A healhty does of 50 characters however 72 characters is when GitHub tends to place the elipses, truncating the string. 
